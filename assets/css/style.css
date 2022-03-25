@@ -61,6 +61,12 @@ p {
     background-position: center;
 }
 
+.contents {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +75,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.contents {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* changed all the class tags to match the HTML and deleted redundancies*/ 
